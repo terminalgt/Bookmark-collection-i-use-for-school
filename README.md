@@ -1,6 +1,8 @@
 # Bookmark-collection-i-use-for-school
 You can use this for anytime, or for school.
 
+(NOTE I DID NOT CREATE ANY OF THE BOOKMARKLETS OR BLOOKET HACKS.)
+
 If you want a tutorial on scripts folder and other folders, i will show you.
 
 Inspect element: I used xray goggles for this so if you used it before your good to go, 
@@ -19,11 +21,13 @@ When in class, If your teacher is on their device, Don't use it because the teac
 It is somewhat risky to disable them when your teacher moves away from the computer such as, (going to the board, or just moving away from the computer)
 If you disable it before class, the teacher shouldn't suspect a thing.
 
+These bookmarklets should work with all Chromium based web browsers.
+
 -----------------------------------------------------------------------------------------------------------------------------------------------------------
 
 Services such as, Xbox Cloud Gaming, Disney+ and Netflix all require a active account with a membership.
 
-The "blooket" folder contains hacks and just the game itself.
+The "blooket" folder contains hacks and just the game itself. Note that you can get banned if your caufght using hacks.
 
 Infinite Mac: Its the Infinite Mac project.
 
