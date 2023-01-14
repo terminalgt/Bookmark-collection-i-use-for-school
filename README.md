@@ -10,20 +10,21 @@ History Flooder: On any webpage (excluding new tab page and chrome webstore) you
 
 
 Remove Extensions:
-(if your at home using a school device, sit back and yoink those extensions!) (all extensions including web filtering extenstions will work)
+(if your at home using a school device, sit back and yoink those extensions!) 
+
+(all extensions including web filtering extenstions will work)
+
 If your at school, this may be difficult.
-When in class, If your teacher is on their device, Don't use it because the teacher may get suspicious of you. It is somewhat risky to disable them when your teacher moves away from the computer such as, (going to the board, or just moving away from the computer)
+When in class, If your teacher is on their device, Don't use it because the teacher may get suspicious of you. 
+It is somewhat risky to disable them when your teacher moves away from the computer such as, (going to the board, or just moving away from the computer)
 If you disable it before class, the teacher shouldn't suspect a thing.
+
 -----------------------------------------------------------------------------------------------------------------------------------------------------------
-Games:
-Poki: A variety of games for you to play!
 
-Now.gg Roblox: Roblox inside your Web Browser.
+Services such as, Xbox Cloud Gaming, Disney+ and Netflix all require a active account with a membership.
 
-Spelunky Classic: Spelunky Classic ported to HTML5.
+The "blooket" folder contains hacks and just the game itself.
 
-Cookie Clicker: Good ol' cookie clicker.
+Infinite Mac: Its the Infinite Mac project.
 
-Lolbeans.io: A Fall Guys copy
-
-Xbox Cloud Gaming: Plays all of your xbox games (REQUIRES A XBOX ACCOUNT WITH GAMEPASS/GAMEPASS ULTIMATE.)
+Miscellanous: is just miscellanous.
