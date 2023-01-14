@@ -21,6 +21,8 @@ When in class, If your teacher is on their device, Don't use it because the teac
 It is somewhat risky to disable them when your teacher moves away from the computer such as, (going to the board, or just moving away from the computer)
 If you disable it before class, the teacher shouldn't suspect a thing.
 
+To import bookmarks with your chromium based web browser. Press ctrl+shift+o then press the 3 dots in the upper right. Once it shows up your files explorer, select the .HTML file you downloaded from here and it should be in your bookmarks tab now.
+
 These bookmarklets should work with all Chromium based web browsers.
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------
